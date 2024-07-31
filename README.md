@@ -4,4 +4,4 @@
 
 Automated CI Builds  
 
-Get the [latest CI release](https://github.com/rjaakash/piko/releases/latest).
+Get the [latest CI release](https://github.com/rjaakash/Piko/releases/latest).
