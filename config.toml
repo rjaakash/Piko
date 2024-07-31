@@ -1,13 +1,10 @@
-enable-magisk-update = true
+enable-magisk-update = false
 
-parallel-jobs = 2
+patches-source = "crimera/piko"
+integrations-source = "crimera/revanced-integrations"
 cli-source = "revanced/revanced-cli"
+rv-brand = "Piko"
 
-[YouTube]
-build-mode = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-
-[Music]
-build-mode = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-arch = "arm64-v8a"
+[X]
+version = "10.49.0-release.0"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
