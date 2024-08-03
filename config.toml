@@ -5,7 +5,6 @@ integrations-source = "crimera/revanced-integrations"
 cli-source = "revanced/revanced-cli"
 rv-brand = "Piko"
 
-[Twitter]
-version = "10.49.0-release.0"
+[Twitter-monet]
 included-patches = "'Disable chirp font' 'Customize Navigation Bar items' 'Hide FAB' 'Bring back twitter' 'Add ability to copy media link' 'Remove premium upsell' 'Hide Community Notes' 'Force enable translate' 'Hide promote button' 'Delete from database' 'Control video auto scroll' 'Hide Banner'"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
