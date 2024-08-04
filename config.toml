@@ -5,6 +5,6 @@ integrations-source = "crimera/revanced-integrations"
 cli-source = "revanced/revanced-cli"
 rv-brand = "Piko"
 
-[Twitter-monet]
-included-patches = "'Disable chirp font' 'Customize Navigation Bar items' 'Hide FAB' 'Bring back twitter' 'Add ability to copy media link' 'Remove premium upsell' 'Hide Community Notes' 'Force enable translate' 'Hide promote button' 'Delete from database' 'Control video auto scroll' 'Hide Banner'"
+[X-monet]
+included-patches = "'Disable chirp font' 'Customize Navigation Bar items' 'Hide FAB' 'Add ability to copy media link' 'Remove premium upsell' 'Hide Community Notes' 'Force enable translate' 'Hide promote button' 'Delete from database' 'Control video auto scroll' 'Hide Banner'"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
