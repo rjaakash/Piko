@@ -6,5 +6,5 @@ cli-source = "revanced/revanced-cli"
 rv-brand = "Piko"
 
 [X-monet]
-included-patches = "'Disable chirp font' 'Customize Navigation Bar items' 'Hide FAB' 'Add ability to copy media link' 'Remove premium upsell' 'Hide Community Notes' 'Force enable translate' 'Hide promote button' 'Delete from database' 'Control video auto scroll' 'Hide Banner'"
+included-patches = "'Disable chirp font' 'Add ability to copy media link' 'Hide Banner' 'Hide Community Notes' 'Hide promote button' 'Force enable translate' 'Delete from database' 'Control video auto scroll' 'Remove premium upsell' 'Hide FAB' 'Customize Navigation Bar items'"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
